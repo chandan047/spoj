@@ -1,2 +1,2 @@
 # spoj
-my solutions to SPOJ classical problems
+Akiti Chandan Reddy's solutions to SPOJ classical problems
